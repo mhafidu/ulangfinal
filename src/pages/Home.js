@@ -53,7 +53,7 @@ function Home() {
 
         if(userLCJ.username === usernameStateAfter && userLCJ.password === passwordStateAfter){
             console.log("berasil")
-            history.push('/after')
+            history.replace('/after')
         }
         else{
             console.log("salah")

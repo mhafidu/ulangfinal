@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.e344251e.chunk.css",
-    "main.js": "/static/js/main.6755ac84.chunk.js",
-    "main.js.map": "/static/js/main.6755ac84.chunk.js.map",
+    "main.js": "/static/js/main.7491424e.chunk.js",
+    "main.js.map": "/static/js/main.7491424e.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.2236dd60.js",
     "runtime-main.js.map": "/static/js/runtime-main.2236dd60.js.map",
     "static/js/2.77b48b60.chunk.js": "/static/js/2.77b48b60.chunk.js",
@@ -18,13 +18,13 @@
     "static/media/barito.d6bf073c.jpg": "/static/media/barito.d6bf073c.jpg",
     "static/media/bni.fb87dff1.png": "/static/media/bni.fb87dff1.png",
     "static/media/bri.6d9cc894.png": "/static/media/bri.6d9cc894.png",
-    "static/media/bunga.9f569b76.svg": "/static/media/bunga.9f569b76.svg",
-    "static/media/check.95b494fb.svg": "/static/media/check.95b494fb.svg",
+    "static/media/bunga.5207dd32.svg": "/static/media/bunga.5207dd32.svg",
+    "static/media/check.7d0f9340.svg": "/static/media/check.7d0f9340.svg",
     "static/media/cve.31392b47.png": "/static/media/cve.31392b47.png",
     "static/media/gambar.bb9ca6e8.png": "/static/media/gambar.bb9ca6e8.png",
     "static/media/gambar2.c4f8268c.svg": "/static/media/gambar2.c4f8268c.svg",
     "static/media/gambar3.4832f1c5.svg": "/static/media/gambar3.4832f1c5.svg",
-    "static/media/globe.8c1618a4.svg": "/static/media/globe.8c1618a4.svg",
+    "static/media/globe.6f23d185.svg": "/static/media/globe.6f23d185.svg",
     "static/media/gudang.f537b978.png": "/static/media/gudang.f537b978.png",
     "static/media/jobs2.abd624eb.jfif": "/static/media/jobs2.abd624eb.jfif",
     "static/media/kantorgd.a9a35e39.jpg": "/static/media/kantorgd.a9a35e39.jpg",
@@ -43,6 +43,6 @@
     "static/js/runtime-main.2236dd60.js",
     "static/js/2.77b48b60.chunk.js",
     "static/css/main.e344251e.chunk.css",
-    "static/js/main.6755ac84.chunk.js"
+    "static/js/main.7491424e.chunk.js"
   ]
 }
