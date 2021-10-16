@@ -251,12 +251,12 @@ body,input {
   left: 25%;
 }
 
-.container-home.sign-up-mode form.sign-up-form {
+.container-home.sign-up-mode div.sign-up-form {
   opacity: 1;
   z-index: 2;
 }
 
-.container-home.sign-up-mode form.sign-in-form {
+.container-home.sign-up-mode div.sign-in-form {
   opacity: 0;
   z-index: 1;
 }
